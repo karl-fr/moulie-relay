@@ -1,1 +1,1 @@
-https://hospitality-financing-alex-tutorials.trycloudflare.com
+https://api.trycloudflare.com
